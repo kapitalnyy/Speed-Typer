@@ -1,1 +1,11 @@
 # Speed-Typer
+- This is a typing speed measuring website with interactive UI.
+- Langugaes used: HTML, CSS, JS;
+- Time spent: 3h;
+- Feaatures:
+  - Typing speed measurment
+  - Cpm (characters per minute) and wpm (words per minute) calculation
+  - Custom diffrent words
+  - Timer
+  - Try again button
+- Project made for High Seas 2024/25 event with ❤️ and youtube https://www.youtube.com/watch?v=xww779jG7Hk help
